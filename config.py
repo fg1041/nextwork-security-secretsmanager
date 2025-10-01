@@ -1,3 +1,5 @@
+
+
 # config.py - TEMPORARY for demonstration only
 # WARNING: This is NOT safe for production! We'll fix it with Secrets Manager.
 
